@@ -12,7 +12,21 @@ A responsive personal portfolio website built with HTML, CSS, and JavaScript. Th
 - Contact form with validation
 - Mobile-friendly hamburger menu
 
-# AI Usage Report
+## Setup Instructions
+
+### Prerequisites
+- A modern web browser (Edge)
+- A code editor (WebStorm)
+- Basic understanding of web development
+- Create a new repository
+
+### Local Development
+1. **Clone** the project files to Web Storm
+2. **Navigate** to the project directory
+3. **Open** `index.html` in your web browser
+4. **Commit** the changing to the repository
+
+## AI Usage Report
 
 ## Tools Used & Use Cases
 
