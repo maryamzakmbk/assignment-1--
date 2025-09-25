@@ -7,9 +7,6 @@ A responsive personal portfolio website built with HTML, CSS, and JavaScript. Th
 - Responsive design (desktop, tablet, mobile)
 - Dark/light theme toggle with local storage
 - Smooth scrolling navigation
-- Dynamic greeting based on time of day
-- Project showcase with hover animations
-- Contact form with validation
 - Mobile-friendly hamburger menu
 
 ## Setup Instructions
